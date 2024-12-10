@@ -10,4 +10,3 @@ This repository contains scripts that demonstrate basic file permission manageme
 - **5-execute**: Adds execute permission to the owner of the file 'hello'.
 - **6-multiple_permissions**: Adds execute permission to the owner and group owner, and read permission to other users for the file 'hello'.
 - **9-John_Doe**: Sets the mode of the file 'hello' to `-rwxr-x-wx`.
-
